@@ -1,0 +1,5 @@
+org.gradle.jvmargs=-Xmx512m -XX:MaxMetaspaceSize=256m
+org.gradle.java.home=C:\\Program Files\\Java\\jdk-11.0.33.0.2
+org.gradle.daemon=false
+org.gradle.workers.max=1
+org.gradle.parallel=false
